@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hello there 👋</h3>
   <h1>I'm **Mark Lucaz**</h1>
-  <h3>A **[Your Role/Specialty, e.g., Full Stack Developer, Junior Developer, Aspiring Coder]** who loves building intuitive, clean, and modern UI designs.</h3>
+  <h3>A ** Full Stack Developer, Junior Developer ** who loves building intuitive, clean, and modern UI designs.</h3>
 </div>
 
 <br>
@@ -14,8 +14,8 @@
   <a href="https://your-portfolio-url.com" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-222222?style=for-the-badge&logo=&logoColor=white" alt="Visit My Portfolio" />
   </a>
-  <!-- Replace with your Facebook profile link if you have one -->
-  <a href="https://facebook.com/your-facebook-profile" target="_blank">
+  <!-- [Replace with your Facebook profile link if you have one](https://www.facebook.com/johncen.lucas) -->
+  <a href="[https://facebook.com/your-facebook-profile](https://www.facebook.com/johncen.lucas)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
