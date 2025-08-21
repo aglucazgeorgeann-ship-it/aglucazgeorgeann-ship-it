@@ -71,15 +71,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 🔥 **[Real-Time Chat Application](https://github.com/aglucazgeorgeann-ship-it/realtime-chat-app)**
+### 🔥 **[Real-Time LOVE Chat Application](https://github.com/aglucazgeorgeann-ship-it/realtime-chat-app](https://lovechat432.netlify.app/)**
 > **React.js + Node.js + Socket.io** | Advanced real-time communication platform
 
-- ⚡ **Instant messaging** with WebSocket implementation
-- 🎨 **Animated UI** with gradient themes and smooth UX
-- 👥 **Multi-room chat** with typing indicators
-- 📱 **Fully responsive** across all devices
+- ⚡ Built with **Vite** for super fast development and builds  
+- 🎨 Styled using **Tailwind CSS v4** (utility-first CSS)  
+- 💬 Responsive **chat interface** design  
+- 📱 Mobile-friendly layout  
+- 🌍 Deployed online via **Netlify**  
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `Socket.io` `Tailwind CSS`
+## 🛠 Tech Stack
+- **React** – UI Library  
+- **Vite** – Build Tool  
+- **Tailwind CSS v4** – Styling  
+- **Netlify** – Deployment  
+
 
 ---
 
