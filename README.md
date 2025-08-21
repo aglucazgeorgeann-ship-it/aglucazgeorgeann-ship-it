@@ -71,7 +71,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 🔥 **[Real-Time LOVE Chat Application](https://github.com/aglucazgeorgeann-ship-it/realtime-chat-app](https://lovechat432.netlify.app/)**
+### 🔥 **[Real-Time LOVE Chat Application](https://lovechat432.netlify.app/)**
 > **React.js + Node.js + Socket.io** | Advanced real-time communication platform
 
 - ⚡ Built with **Vite** for super fast development and builds  
